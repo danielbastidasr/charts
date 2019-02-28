@@ -10,7 +10,7 @@ First Chart using LineaChartView.
 
 Second Chart using CombinedChartView.
 
-![Combined Screen](screenshots/combinedchart.png)
+![Combined Screen](screenshots/combined.png)
 
 Both of them share a formater for transform double values (1.0, 2.0...) to Strings, in this case the months.
 
